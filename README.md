@@ -1,5 +1,5 @@
-#ez egy címsor  
-###kisebbcímsor  
+# ez egy címsor  
+### kisebbcímsor  
 **félkövér**
 *dőlt szöveg*  
 - lista elem
